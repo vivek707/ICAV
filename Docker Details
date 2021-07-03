@@ -1,0 +1,4 @@
+Docker Hub Repository Link: https://hub.docker.com/repository/docker/viveksharma707/icav_challenge
+
+#Pull from Repository
+docker pull viveksharma707/icav_challenge:Version1.0
