@@ -2,3 +2,9 @@ Docker Hub Repository Link: https://hub.docker.com/repository/docker/viveksharma
 
 #Pull from Repository
 docker pull viveksharma707/icav_challenge:Version1.0
+
+#Run docker container
+docker run -d -p 5000:5000 viveksharma707/icav_challenge:Version1.0
+
+#Running application when container is running:
+http://192.168.232.97:5000/4
